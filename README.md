@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Achmele
-- 👀 I’m interested in Python,Networking ....
+- 👀 I’m interested in Animés,scans...,..Python,Networking ....
 - 🌱 I’m currently learning ...Python 
 
 
