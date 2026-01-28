@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Achmele
 - 👀 I’m interested in Animés,scans...,..Python,javascript,Laravel,Networking ....
-- 🌱 I’m currently learning ...Python 
+- 🌱 I’m currently learning ...Python
+- Red teams 
 
 
 <!---
