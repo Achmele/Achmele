@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Achmele
-- 👀 I’m interested in Animés,scans...,..Python,javascript,Laravel,Networking ....
-- 🌱 I’m currently learning ...Python
-- Red teams 
-
+su Achmele_Fred
+Red Team mindset 🛡️
+Offensive Security • Pentesting • Exploitation
+Python / Django Developer • Web • Bootstrap
+Break to understand. Secure to protect.
 
 <!---
 Achmele/Achmele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
