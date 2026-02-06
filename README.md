@@ -1,7 +1,7 @@
 - Achmele@fred:/home/temp_user/Fred_desc
 - Red Team mindset 🛡️
 - Offensive Security • Pentesting • Exploitation
-- Python / Django Developer • Web • Bootstrap
+- Python / Django Dev • Web • Bootstrap
 - Break to understand. Secure to protect.
 #Gain_r@@t_access..
 <!---
